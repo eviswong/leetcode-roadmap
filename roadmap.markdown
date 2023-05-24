@@ -45,8 +45,9 @@
 |:-----:|:----:|:----:|:----:|
 | 230 | [二叉搜索树中第K小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/)  | *中等* | 
 
-## 回溯
-### 排列组合问题
+## 算法技巧
+### 回溯
+#### 排列组合问题
 | 题号 | 题目名 | 难度 | 讲解链接 |
 |:-----:|:----:|:----:|:----:|
 |46|[全排列](https://leetcode.cn/problems/permutations/) | *中等* |
@@ -57,6 +58,10 @@
 |78|[子集](https://leetcode.cn/problems/subsets/) | *中等* |
 |90|[子集2](https://leetcode.cn/problems/subsets-ii/) | *中等* |
 
-## 递归
+### 递归
 ### 回文问题
-
+### 滑动窗口
+| 题号 | 题目名 | 难度 | 讲解链接 |
+|:-----:|:----:|:----:|:----:|
+| 121 | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)  | *简单* | 
+| 3 | [无重复字符的最长字串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)  | *中等* | 

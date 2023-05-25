@@ -65,3 +65,4 @@
 |:-----:|:----:|:----:|:----:|
 | 121 | [买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)  | *简单* | 
 | 3 | [无重复字符的最长字串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)  | *中等* | 
+| 567 | [字符串的排列](https://leetcode.cn/problems/permutation-in-string/) |*中等*| 
